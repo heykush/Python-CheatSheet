@@ -1,4 +1,4 @@
 # Python-CheatSheet
 All the Cheatsheet of python are available here
-### To Download Go To `View Code` option
+### [Download Link](https://github.com/heykush/Python-CheatSheet/blob/master/cheatsheet-python-beginners.pdf)
 ### More Python Tricks Pdf are Coming soon 
